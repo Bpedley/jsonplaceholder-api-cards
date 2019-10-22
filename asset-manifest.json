@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jsonplaceholder-api-cards/static/css/main.eb72e876.chunk.css",
-    "main.js": "/jsonplaceholder-api-cards/static/js/main.f2f84e08.chunk.js",
-    "main.js.map": "/jsonplaceholder-api-cards/static/js/main.f2f84e08.chunk.js.map",
+    "main.js": "/jsonplaceholder-api-cards/static/js/main.a20f877b.chunk.js",
+    "main.js.map": "/jsonplaceholder-api-cards/static/js/main.a20f877b.chunk.js.map",
     "runtime-main.js": "/jsonplaceholder-api-cards/static/js/runtime-main.c6f39e99.js",
     "runtime-main.js.map": "/jsonplaceholder-api-cards/static/js/runtime-main.c6f39e99.js.map",
     "static/css/2.72ee3d1d.chunk.css": "/jsonplaceholder-api-cards/static/css/2.72ee3d1d.chunk.css",
     "static/js/2.3ab12764.chunk.js": "/jsonplaceholder-api-cards/static/js/2.3ab12764.chunk.js",
     "static/js/2.3ab12764.chunk.js.map": "/jsonplaceholder-api-cards/static/js/2.3ab12764.chunk.js.map",
     "index.html": "/jsonplaceholder-api-cards/index.html",
-    "precache-manifest.0ba84d4a13e2a0173d03a034f66975e0.js": "/jsonplaceholder-api-cards/precache-manifest.0ba84d4a13e2a0173d03a034f66975e0.js",
+    "precache-manifest.876c37329ac2dc2e01b707e6750b9651.js": "/jsonplaceholder-api-cards/precache-manifest.876c37329ac2dc2e01b707e6750b9651.js",
     "service-worker.js": "/jsonplaceholder-api-cards/service-worker.js",
     "static/css/2.72ee3d1d.chunk.css.map": "/jsonplaceholder-api-cards/static/css/2.72ee3d1d.chunk.css.map",
     "static/css/main.eb72e876.chunk.css.map": "/jsonplaceholder-api-cards/static/css/main.eb72e876.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.72ee3d1d.chunk.css",
     "static/js/2.3ab12764.chunk.js",
     "static/css/main.eb72e876.chunk.css",
-    "static/js/main.f2f84e08.chunk.js"
+    "static/js/main.a20f877b.chunk.js"
   ]
 }
