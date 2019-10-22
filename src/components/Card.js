@@ -9,7 +9,7 @@ function Card({ cards }) {
             <img src={item.url} alt={`${item.title}`} />
             <div className="card-info">
               <p>{item.title}</p>
-              <small>albumId: {item.albumId}</small>
+              <small>Id: {item.id}</small>
             </div>
           </div>
         );
