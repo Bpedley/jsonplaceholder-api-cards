@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/jsonplaceholder-api-cards/static/css/main.eb72e876.chunk.css",
-    "main.js": "/jsonplaceholder-api-cards/static/js/main.a20f877b.chunk.js",
-    "main.js.map": "/jsonplaceholder-api-cards/static/js/main.a20f877b.chunk.js.map",
+    "main.css": "/jsonplaceholder-api-cards/static/css/main.1754297f.chunk.css",
+    "main.js": "/jsonplaceholder-api-cards/static/js/main.5cfa3a89.chunk.js",
+    "main.js.map": "/jsonplaceholder-api-cards/static/js/main.5cfa3a89.chunk.js.map",
     "runtime-main.js": "/jsonplaceholder-api-cards/static/js/runtime-main.c6f39e99.js",
     "runtime-main.js.map": "/jsonplaceholder-api-cards/static/js/runtime-main.c6f39e99.js.map",
     "static/css/2.72ee3d1d.chunk.css": "/jsonplaceholder-api-cards/static/css/2.72ee3d1d.chunk.css",
-    "static/js/2.3ab12764.chunk.js": "/jsonplaceholder-api-cards/static/js/2.3ab12764.chunk.js",
-    "static/js/2.3ab12764.chunk.js.map": "/jsonplaceholder-api-cards/static/js/2.3ab12764.chunk.js.map",
+    "static/js/2.b5045fa7.chunk.js": "/jsonplaceholder-api-cards/static/js/2.b5045fa7.chunk.js",
+    "static/js/2.b5045fa7.chunk.js.map": "/jsonplaceholder-api-cards/static/js/2.b5045fa7.chunk.js.map",
     "index.html": "/jsonplaceholder-api-cards/index.html",
-    "precache-manifest.876c37329ac2dc2e01b707e6750b9651.js": "/jsonplaceholder-api-cards/precache-manifest.876c37329ac2dc2e01b707e6750b9651.js",
+    "precache-manifest.2e5b3c8842dfbf444b2dd56b5bad5f5e.js": "/jsonplaceholder-api-cards/precache-manifest.2e5b3c8842dfbf444b2dd56b5bad5f5e.js",
     "service-worker.js": "/jsonplaceholder-api-cards/service-worker.js",
     "static/css/2.72ee3d1d.chunk.css.map": "/jsonplaceholder-api-cards/static/css/2.72ee3d1d.chunk.css.map",
-    "static/css/main.eb72e876.chunk.css.map": "/jsonplaceholder-api-cards/static/css/main.eb72e876.chunk.css.map",
+    "static/css/main.1754297f.chunk.css.map": "/jsonplaceholder-api-cards/static/css/main.1754297f.chunk.css.map",
     "static/media/font-awesome.min.css": "/jsonplaceholder-api-cards/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.c6f39e99.js",
     "static/css/2.72ee3d1d.chunk.css",
-    "static/js/2.3ab12764.chunk.js",
-    "static/css/main.eb72e876.chunk.css",
-    "static/js/main.a20f877b.chunk.js"
+    "static/js/2.b5045fa7.chunk.js",
+    "static/css/main.1754297f.chunk.css",
+    "static/js/main.5cfa3a89.chunk.js"
   ]
 }

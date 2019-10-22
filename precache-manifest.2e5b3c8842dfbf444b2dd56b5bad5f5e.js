@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aa996a32f1950090b1ab6847cbb782e",
+    "revision": "2054d49e12319ee40494f10f223d1203",
     "url": "/jsonplaceholder-api-cards/index.html"
   },
   {
-    "revision": "acd1c4ab62494cae811a",
+    "revision": "43153251d2c814b6adbc",
     "url": "/jsonplaceholder-api-cards/static/css/2.72ee3d1d.chunk.css"
   },
   {
-    "revision": "d393d134ed00a9633fa1",
-    "url": "/jsonplaceholder-api-cards/static/css/main.eb72e876.chunk.css"
+    "revision": "d9a0c0816be90dffceca",
+    "url": "/jsonplaceholder-api-cards/static/css/main.1754297f.chunk.css"
   },
   {
-    "revision": "acd1c4ab62494cae811a",
-    "url": "/jsonplaceholder-api-cards/static/js/2.3ab12764.chunk.js"
+    "revision": "43153251d2c814b6adbc",
+    "url": "/jsonplaceholder-api-cards/static/js/2.b5045fa7.chunk.js"
   },
   {
-    "revision": "d393d134ed00a9633fa1",
-    "url": "/jsonplaceholder-api-cards/static/js/main.a20f877b.chunk.js"
+    "revision": "d9a0c0816be90dffceca",
+    "url": "/jsonplaceholder-api-cards/static/js/main.5cfa3a89.chunk.js"
   },
   {
     "revision": "08244c6d1d47ad7dbbb4",
