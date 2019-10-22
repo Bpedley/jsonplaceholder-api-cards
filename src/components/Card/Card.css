@@ -1,0 +1,27 @@
+.card {
+  background-color: white;
+  align-self: start;
+}
+
+.card p,
+.card small {
+  padding: 5px 15px 10px;
+}
+
+.card p {
+  font-weight: 500;
+}
+
+.card small {
+  color: #999999;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+}
