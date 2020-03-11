@@ -3,7 +3,7 @@ import "./Card.css";
 
 function Card({ cards }) {
   return (
-    <React.Fragment>
+    <>
       {cards.map(item => {
         return (
           <div key={item.id} className="card">
@@ -15,7 +15,7 @@ function Card({ cards }) {
           </div>
         );
       })}
-    </React.Fragment>
+    </>
   );
 }
 

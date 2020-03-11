@@ -4,14 +4,11 @@ import "./Cards.css";
 import "font-awesome/css/font-awesome.min.css";
 
 class Cards extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      cards: [],
-      isLoading: false,
-      start: 0
-    };
-  }
+  state = {
+    cards: [],
+    isLoading: false,
+    start: 0
+  };
 
   componentDidMount() {
     this.fetchData();
@@ -50,7 +47,7 @@ class Cards extends Component {
     }
 
     return (
-      <React.Fragment>
+      <>
         <h1>Вывод данных в цикле</h1>
         <p>Всего записей: {cards.length}</p>
         <div className="grid">
@@ -59,7 +56,7 @@ class Cards extends Component {
         <button onClick={this.showMore} disabled={isLoading}>
           Показать еще{isLoading && <i className="fa fa-spinner fa-spin"></i>}
         </button>
-      </React.Fragment>
+      </>
     );
   }
 }
